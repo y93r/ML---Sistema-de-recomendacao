@@ -8,7 +8,7 @@ Fizemos:
 - Análise Exploratória dos dados; 
 - Manipulação dados(quantidade de livros avaliados e média de avaliações);
 - Criação um sistema de recomendação;
-- Criar um modelo de Machine Learning, aprendizado não supervisionado;
+- Criação de um modelo de Machine Learning de aprendizado não supervisionado;
 - Buscar imagens na internet a partir de um Link
-- Uso da GPU do Google Colab (pesada tarefa de gerar imagens)
+- Uso da GPU do Google Colab (para o processamento e renderização de imagens)
 
