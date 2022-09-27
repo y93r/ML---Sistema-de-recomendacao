@@ -10,5 +10,5 @@ Fizemos:
 - Criação um sistema de recomendação;
 - Criação de um modelo de Machine Learning de aprendizado não supervisionado;
 - Buscar imagens na internet a partir de um Link
-- Uso da GPU do Google Colab (para o processamento e renderização de imagens)
+- Uso da GPU do Google Colab (para o processamento e renderização de imagens mais pesadas)
 
